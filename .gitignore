@@ -1,8 +1,6 @@
 # Python 缓存
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
 
 # IDE 配置
 .idea/
